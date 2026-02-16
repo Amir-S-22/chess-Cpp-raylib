@@ -1,6 +1,10 @@
 # chess-Cpp-raylib
 
 Two-player Chess engine + UI buit with C++ and raylib.
+<br>
+<p align="center">
+  <img src="demo.gif" alt="demo" width="400">
+</p>
 
 ## 💡 Overview
 Personal learning project focused on:
