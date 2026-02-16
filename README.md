@@ -1,4 +1,4 @@
-# Chess engine + UI - C++ / raylib
+# Chess engine + UI — C++ / raylib
 
 Two-player Chess engine + UI buit with C++ and raylib.
 <br>
