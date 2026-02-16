@@ -3,15 +3,16 @@
 Two-player Chess engine + UI buit with C++ and raylib.
 
 ## 💡 Overview
-Made as a personal project to help me learn about modularization of code, and writing cleanner code.
+Personal learning project focused on:
+- Working with and organising modularized code
+- Writing cleaner and more maintainable code
 
 ## 🎮 Controls
-- Left mouse button
-- Drag and drop
+- **Left mouse button**: click and drag piece to move
 
 ## ✨ Features
-- 2-player gameplay
-- Legal move highlighting
+- **Local 2-player** gameplay
+- **Legal move highlighting**
 
 ## 📦 Setup (Linux)
 ### Requirements
